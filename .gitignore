@@ -24,3 +24,5 @@ pre_trained_glove_model.h5
 
 jena_climate
 first_rnn_jena_climate.h5
+
+kernel-metadata.json
